@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GoServerTest/api"
+	"GoTestServer/api"
 
 	"github.com/gin-gonic/gin"
 )
